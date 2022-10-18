@@ -1,2 +1,4 @@
-Source.cpp - demonstraiting work of searching\n
+Source.cpp - demonstraiting work of searching
+
+
 search_path.h - contains the search code
